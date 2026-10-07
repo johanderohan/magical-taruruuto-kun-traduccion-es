@@ -1,5 +1,7 @@
 # Magical Taruruuto-kun — Traducción al castellano
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/mega-drive/magical-taruruuto-kun)**.
+
 Traducción al español de España de **Magical Taruruuto-kun**, el juego de plataformas de Game Freak publicado por Sega para Mega Drive en 1992. El parche se aplica directamente a la versión japonesa original.
 
 La descarga contiene únicamente el parche. Necesitas tu propia copia del juego.
